@@ -1,6 +1,6 @@
 # OTA feed: LineageOS for the Samsung Galaxy Z Fold6 (q6q)
 
-Unofficial LineageOS builds by **Anthony Mckeever**, signed with his release keys.
+Unofficial LineageOS builds, maintained by [mojoaj](https://github.com/mojoaj).
 
 - `q6q.json` is read by the built-in Updater app (Settings > System > Updater).
 - Downloads (OTA zip, Odin recovery `.tar.md5`, SHA256SUMS) are on the [Releases](https://github.com/mojoaj/lineage_q6q_ota/releases) page.
