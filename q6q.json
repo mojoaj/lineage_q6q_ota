@@ -1,5 +1,20 @@
 [
   {
+    "datetime": 1794615666,
+    "files": [
+      {
+        "filename": "lineage-23.2-20261114.0021-UNOFFICIAL-q6q.zip",
+        "os_patch_level": "2026-11-01",
+        "os_sdk_level": 36,
+        "sha256": "f61b3627c5ba886f2c7daa2af76802db51ed98c5d859f15b1d6c378701db67e2",
+        "size": 1698452959,
+        "url": "https://github.com/mojoaj/lineage_q6q_ota/releases/download/23.2-20261114.0021/lineage-23.2-20261114.0021-UNOFFICIAL-q6q.zip"
+      }
+    ],
+    "type": "unofficial",
+    "version": "23.2"
+  },
+  {
     "datetime": 1794606991,
     "files": [
       {
