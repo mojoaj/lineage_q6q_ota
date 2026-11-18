@@ -1,0 +1,17 @@
+[
+  {
+    "datetime": 1795007250,
+    "files": [
+      {
+        "filename": "lineage-24.0-20261118.1307-UNOFFICIAL-q6q.zip",
+        "os_patch_level": "2026-11-01",
+        "os_sdk_level": 37,
+        "sha256": "a8025cd397bb7823b3ba4a957d7067866f95c77ca10625b77e19378abe6e6ad3",
+        "size": 1789957682,
+        "url": "https://github.com/mojoaj/lineage_q6q_ota/releases/download/24.0-20261118.1307/lineage-24.0-20261118.1307-UNOFFICIAL-q6q.zip"
+      }
+    ],
+    "type": "unofficial",
+    "version": "24.0"
+  }
+]
